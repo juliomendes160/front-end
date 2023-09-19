@@ -1,10 +1,10 @@
 # Front-end
 
-# Instalação do Node.js
+## Instalação do Node.js
 
 O Node.js é uma plataforma de código aberto que permite a execução de JavaScript no lado do servidor. É amplamente utilizado para o desenvolvimento de aplicativos web e back-end. Siga as etapas abaixo para instalar o Node.js no seu sistema.
 
-## Windows
+> Windows
 
 1. Acesse o [site oficial do Node.js](https://nodejs.org/).
 
@@ -19,7 +19,7 @@ O Node.js é uma plataforma de código aberto que permite a execução de JavaSc
 6. Siga as instruções do instalador para concluir a instalação. O Node.js e o npm (gerenciador de pacotes do Node.js) serão instalados no seu sistema.
 
 7. Para verificar se a instalação foi bem-sucedida, abra o Prompt de Comando ou o PowerShell e execute os seguintes comandos:
-   ```shell
+   ```
    node -v
    npm -v
 
