@@ -2,9 +2,9 @@
 
 ## Node
 
-> Links:
+> Downloads:
 
-[Download](https://nodejs.org/)
+[Node](https://nodejs.org/en)
 
 > Comandos:
 
